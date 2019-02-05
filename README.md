@@ -1,4 +1,4 @@
-# JavaScript Hide and Seek
+''# JavaScript Hide and Seek
 
 ## Problem Statement
 
@@ -184,4 +184,3 @@ technique might come in handy here.
 
 [selectors]: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors
 [parseint]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
-
